@@ -39,7 +39,13 @@ To become a software engineer in Japan
 and build reliable system-level applications.
 
 ---
+## 🧩 Engineering Principles
 
+- Keep it simple
+- Write readable code
+- Understand before optimizing
+- Build with purpose
+  
 ## 📫 Contact
 
 - Email: phamchichung1999@gmail.com
