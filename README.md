@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Minh Hien 👋</h2>
+<h2 align="center">Hi, I'm Luffy Nguyen 👋</h2>
 
 <p align="center">
 IT student based in Japan <br>
