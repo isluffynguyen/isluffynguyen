@@ -45,11 +45,12 @@ and build reliable system-level applications.
 - Write readable code
 - Understand before optimizing
 - Build with purpose
-  
+
+ ---
 ## 📫 Contact
 
 - Email: phamchichung1999@gmail.com
-- 
-## 📊 GitHub Stats
 
+ ---
+## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isluffynguyen&show_icons=true&theme=default)
